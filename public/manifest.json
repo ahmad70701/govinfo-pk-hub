@@ -1,0 +1,20 @@
+{
+  "name": "GovInfo PK",
+  "short_name": "GovInfo PK",
+  "description": "Complete guide to Pakistani government schemes, services, and welfare programs",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f9d58",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["government", "utilities", "education"],
+  "lang": "en-PK"
+}
