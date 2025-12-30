@@ -1,6 +1,6 @@
 {
-  "name": "PakGoveInfo - Government Schemes & Services",
-  "short_name": "PakGoveInfo",
+  "name": "pakgovinfo - Government Schemes & Services",
+  "short_name": "pakgovinfo",
   "description": "Complete guide to Pakistani government schemes, services, and welfare programs",
   "start_url": "/",
   "display": "standalone",
