@@ -29,7 +29,7 @@ const Footer = () => {
               <div className="w-10 h-10 bg-primary rounded-lg flex items-center justify-center">
                 <span className="font-bold text-primary-foreground">PK</span>
               </div>
-              <span className="font-bold text-lg">pakgovinfo</span>
+              <span className="font-bold text-lg">PakGovInfo</span>
             </Link>
             <p className="text-sm text-footer-foreground/70 leading-relaxed">
               Your trusted source for information about Pakistani government schemes, 

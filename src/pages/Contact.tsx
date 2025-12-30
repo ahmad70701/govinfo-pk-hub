@@ -53,7 +53,7 @@ const Contact = () => {
               <div className="card-gov p-6">
                 <MapPin className="w-6 h-6 text-primary mb-3" />
                 <h3 className="font-semibold mb-2">Location</h3>
-                <p className="text-muted-foreground text-sm">Islamabad, Pakistan</p>
+                <p className="text-muted-foreground text-sm">Lahore, Pakistan</p>
               </div>
             </div>
           </div>

@@ -9,7 +9,7 @@ interface SEOHeadProps {
 }
 
 const SEOHead = ({ title, description, canonicalUrl, ogType = 'website', jsonLd }: SEOHeadProps) => {
-  const fullTitle = `${title} | pakgovinfo`;
+  const fullTitle = `${title} | PakGovInfo`;
   
   return (
     <Helmet>
