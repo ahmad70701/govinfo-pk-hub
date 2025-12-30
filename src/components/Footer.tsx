@@ -29,7 +29,7 @@ const Footer = () => {
               <div className="w-10 h-10 bg-primary rounded-lg flex items-center justify-center">
                 <span className="font-bold text-primary-foreground">PK</span>
               </div>
-              <span className="font-bold text-lg">GovInfo PK</span>
+              <span className="font-bold text-lg">PakGoveInfo</span>
             </Link>
             <p className="text-sm text-footer-foreground/70 leading-relaxed">
               Your trusted source for information about Pakistani government schemes, 
@@ -93,7 +93,7 @@ const Footer = () => {
         <div className="mt-12 pt-8 border-t border-footer-foreground/20">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <p className="text-sm text-footer-foreground/70">
-              © {currentYear} GovInfo PK. All rights reserved.
+              © {currentYear} PakGoveInfo. All rights reserved.
             </p>
             <p className="text-xs text-footer-foreground/50">
               This is an informational website. Not affiliated with the Government of Pakistan.

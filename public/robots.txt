@@ -1,4 +1,4 @@
-# GovInfo PK Robots.txt
+# PakGoveInfo Robots.txt
 User-agent: Googlebot
 Allow: /
 
@@ -15,7 +15,7 @@ User-agent: *
 Allow: /
 
 # Sitemaps
-Sitemap: https://govinfo.pk/sitemap.xml
+Sitemap: https://pakgoveinfo.site/sitemap.xml
 
 # Disallow admin areas (if any)
 Disallow: /api/

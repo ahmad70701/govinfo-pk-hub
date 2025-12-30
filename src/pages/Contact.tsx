@@ -48,7 +48,7 @@ const Contact = () => {
               <div className="card-gov p-6">
                 <Mail className="w-6 h-6 text-primary mb-3" />
                 <h3 className="font-semibold mb-2">Email</h3>
-                <p className="text-muted-foreground text-sm">contact@govinfo.pk</p>
+                <p className="text-muted-foreground text-sm">info@pakgovinfo.site</p>
               </div>
               <div className="card-gov p-6">
                 <MapPin className="w-6 h-6 text-primary mb-3" />

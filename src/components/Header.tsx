@@ -25,7 +25,7 @@ const Header = () => {
               <span className="font-bold text-lg">PK</span>
             </div>
             <div className="hidden sm:block">
-              <span className="font-bold text-lg">GovInfo PK</span>
+              <span className="font-bold text-lg">PakGoveInfo</span>
             </div>
           </Link>
 
