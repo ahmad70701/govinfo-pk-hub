@@ -32,7 +32,7 @@ const PrivacyPolicy = () => {
             <p className="text-muted-foreground">We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page with an updated revision date.</p>
             
             <h2 className="text-xl font-semibold mt-8">8. Contact Us</h2>
-            <p className="text-muted-foreground">If you have questions about this Privacy Policy, please contact us through our Contact page or email us at privacy@govinfo.pk.</p>
+            <p className="text-muted-foreground">If you have questions about this Privacy Policy, please contact us through our Contact page or email us at privacy@pakgovinfo.site.</p>
           </section>
         </div>
       </article>

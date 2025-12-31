@@ -21,11 +21,11 @@ const Index = () => {
     "@context": "https://schema.org",
     "@type": "WebSite",
     "name": "GovInfo PK",
-    "url": "https://govinfo.pk",
+    "url": "https://pakgovinfo.site",
     "description": "Complete guide to Pakistani government schemes, services, and welfare programs",
     "potentialAction": {
       "@type": "SearchAction",
-      "target": "https://govinfo.pk/search?q={search_term_string}",
+      "target": "https://pakgovinfo.site/search?q={search_term_string}",
       "query-input": "required name=search_term_string"
     }
   };
@@ -35,7 +35,7 @@ const Index = () => {
       <SEOHead
         title="Government Schemes & Services of Pakistan"
         description="Complete guide to Pakistani government schemes, services, and welfare programs. Find information about Ehsaas, BISP, CNIC, Passport, and more."
-        canonicalUrl="https://govinfo.pk"
+        canonicalUrl="https://pakgovinfo.site"
         jsonLd={jsonLd}
       />
 
