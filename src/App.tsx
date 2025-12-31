@@ -19,6 +19,8 @@ import TermsOfService from "./pages/TermsOfService";
 import Disclaimer from "./pages/Disclaimer";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
+import Articles from "./pages/Articles";
+import ArticleDetail from "./pages/ArticleDetail";
 import NotFound from "./pages/NotFound";
 import { Analytics } from "@vercel/analytics/react"
 import { SpeedInsights } from "@vercel/speed-insights/react"
@@ -47,6 +49,8 @@ const App = () => (
               <Route path="/disclaimer" element={<Disclaimer />} />
               <Route path="/about" element={<About />} />
               <Route path="/contact" element={<Contact />} />
+              <Route path="/articles" element={<Articles />} />
+              <Route path="/articles/:slug" element={<ArticleDetail />} />
               <Route path="*" element={<NotFound />} />
             </Routes>
           </Layout>

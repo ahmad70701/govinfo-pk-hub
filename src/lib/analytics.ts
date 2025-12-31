@@ -1,3 +1,8 @@
+declare global {
+  interface Window {
+    gtag?: (...args: unknown[]) => void;
+  }
+}
 
 export const trackPageView = (url: string) => {
   if (window.gtag) {
