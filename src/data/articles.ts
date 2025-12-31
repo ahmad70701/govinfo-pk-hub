@@ -105,6 +105,7 @@ Program names and coverage can vary by district and federal or provincial scope.
 - No official representative will ask you to share OTPs, bank PINs, or pay a release fee.
 - Social media pages and WhatsApp groups are not official enrollment channels. If in doubt, verify any claim against the 8171 portal.
 
+![A simple four-step flow diagram showing: Check 8171 status, Visit BISP Tehsil Office for NSER survey, Receive eligibility SMS, Collect payment with CNIC biometric verification.](https://kccqmbkylzrrhibpxtbk.supabase.co/storage/v1/object/public/public-user-assets/1aea0060-7c14-43b7-b1bc-48a8b45afaf9/c0672570-e590-433f-b640-5983841331a0/image-1.webp)
 ## Frequently asked questions
 
 **Is the Ehsaas Program still active in 2025?**
