@@ -1,6 +1,7 @@
 import { ReactNode } from 'react';
 import Header from './Header';
 import Footer from './Footer';
+import ScrollToTopButton from './ScrollToTopButton';
 import { Analytics } from "@vercel/analytics/react"
 import { SpeedInsights } from "@vercel/speed-insights/react"
 interface LayoutProps {
@@ -15,8 +16,9 @@ const Layout = ({ children }: LayoutProps) => {
         {children}
       </main>
       <Footer />
-        <Analytics />
-        <SpeedInsights />
+      <ScrollToTopButton />
+      <Analytics />
+      <SpeedInsights />
     </div>
   );
 };
