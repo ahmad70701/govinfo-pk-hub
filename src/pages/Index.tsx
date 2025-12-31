@@ -4,6 +4,7 @@ import SearchBar from '@/components/SearchBar';
 import CategoryCard from '@/components/CategoryCard';
 import SchemeCard from '@/components/SchemeCard';
 import AdPlaceholder from '@/components/AdPlaceholder';
+import LatestArticleBanner from '@/components/LatestArticleBanner';
 import { schemes } from '@/data/schemes';
 import { services } from '@/data/services';
 
@@ -55,8 +56,15 @@ const Index = () => {
         </div>
       </section>
 
-      {/* Categories Section */}
+      {/* Latest Article Banner */}
       <section className="section-spacing">
+        <div className="container-gov">
+          <LatestArticleBanner />
+        </div>
+      </section>
+
+      {/* Categories Section */}
+      <section className="section-spacing pt-0">
         <div className="container-gov">
           <h2 className="mb-6">Browse by Category</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
