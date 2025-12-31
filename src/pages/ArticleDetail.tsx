@@ -66,6 +66,21 @@ const ArticleDetail = () => {
         tableRows = [];
       }
 
+      // Images - markdown format: ![alt](src)
+      const imageMatch = line.match(/^!\[(.+?)\]\((.+?)\)$/);
+      if (imageMatch) {
+        elements.push(
+          <img
+            key={index}
+            src={imageMatch[2]}
+            alt={imageMatch[1]}
+            className="w-full rounded-lg my-6 shadow-md"
+            loading="lazy"
+          />
+        );
+        return;
+      }
+
       // Headers
       if (line.startsWith('## ')) {
         elements.push(
