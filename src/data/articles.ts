@@ -14,7 +14,7 @@ export const articles: Article[] = [
     slug: 'ehsaas-program-eligibility-registration-payment-guide-2025',
     title: 'Ehsaas Program: Eligibility, Registration, and Payment Guide 2025',
     excerpt: 'Complete guide on how to apply to the Ehsaas Program in 2025, check your CNIC status on 8171, understand eligibility, registration pathways, and payment collection.',
-    publishedDate: '2025-01-15',
+    publishedDate: '2025-12-31',
     author: 'PakGovInfo Team',
     category: 'Government Schemes',
     readTime: '12 min read',
