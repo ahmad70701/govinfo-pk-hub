@@ -224,7 +224,7 @@ const ArticleDetail = () => {
             {renderContent(article.content)}
           </div>
 
-          <AdPlaceholder format="horizontal" className="my-6" />
+          {/* <AdPlaceholder format="horizontal" className="my-6" /> */}
 
           <div className="mt-8 p-6 bg-muted rounded-lg">
             <p className="text-sm text-muted-foreground">

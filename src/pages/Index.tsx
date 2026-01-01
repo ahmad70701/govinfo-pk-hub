@@ -139,9 +139,9 @@ const Index = () => {
         </div>
       </section>
 
-      <AdPlaceholder 
+      {/* <AdPlaceholder 
         format="horizontal"
-        className="container-gov my-8" />
+        className="container-gov my-8" /> */}
 
       {/* Quick Links */}
       <section className="section-spacing bg-accent">
