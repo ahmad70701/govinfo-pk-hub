@@ -18,7 +18,7 @@ export const articles: Article[] = [
     author: 'PakGovInfo Team',
     category: 'Government Schemes',
     readTime: '12 min read',
-    content: `![Ehsaas Program: Eligibility, Registration, and Payment Guide 2025](https://kccqmbkylzrrhibpxtbk.supabase.co/storage/v1/object/public/public-user-assets/1aea0060-7c14-43b7-b1bc-48a8b45afaf9/c0672570-e590-433f-b640-5983841331a0/main-image.webp)
+    content: `[![Ehsaas Program: Eligibility, Registration, and Payment Guide 2025](https://kccqmbkylzrrhibpxtbk.supabase.co/storage/v1/object/public/public-user-assets/1aea0060-7c14-43b7-b1bc-48a8b45afaf9/c0672570-e590-433f-b640-5983841331a0/main-image.webp)](https://www.effectivegatecpm.com/phy2snc4kf?key=3e3c861b82f5d33cca7578d459a9c6dc)
 
 If you are searching for how to apply to the Ehsaas Program in 2025, check your CNIC status on 8171, or understand where and when payments are issued, this guide covers what you need to know. It explains eligibility, registration pathways, payment collection, and how to fix common issues. PakGovInfo is an independent information resource, always verify final steps on official portals.
 

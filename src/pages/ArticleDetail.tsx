@@ -66,7 +66,28 @@ const ArticleDetail = () => {
         tableRows = [];
       }
 
-      // Images - markdown format: ![alt](src)
+      // Images - markdown format: ![alt](src) or with link: [![alt](src)](link)
+      const linkedImageMatch = line.match(/^\[!\[(.+?)\]\((.+?)\)\]\((.+?)\)$/);
+      if (linkedImageMatch) {
+        elements.push(
+          <a
+            key={index}
+            href={linkedImageMatch[3]}
+            target="_blank"
+            rel="noopener noreferrer sponsored"
+            className="block my-6"
+          >
+            <img
+              src={linkedImageMatch[2]}
+              alt={linkedImageMatch[1]}
+              className="w-full rounded-lg shadow-md hover:shadow-lg transition-shadow"
+              loading="lazy"
+            />
+          </a>
+        );
+        return;
+      }
+
       const imageMatch = line.match(/^!\[(.+?)\]\((.+?)\)$/);
       if (imageMatch) {
         elements.push(
