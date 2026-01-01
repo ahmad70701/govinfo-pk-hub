@@ -21,13 +21,10 @@ const AdPlaceholder = ({
   };
 
   useEffect(() => {
-    if (provider !== 'adsterra-native') {
-      console.log("no proivdor")
-      return
-    };
+    if (provider !== 'adsterra-native') return
 
     // Prevent script duplication
-    // if (document.getElementById('adsterra-native-script')) return;
+    if (document.getElementById('adsterra-native-script')) return;
 
     const script = document.createElement('script');
     script.id = 'adsterra-native-script';
@@ -46,7 +43,7 @@ const AdPlaceholder = ({
       {provider === 'adsterra-native' ? (
         <div id={ADSTERRA_CONTAINER_ID} />
       ) : (
-        <span>Advertisement</span>
+        <span></span>
       )}
     </div>
   );
