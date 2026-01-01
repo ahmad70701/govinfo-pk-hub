@@ -19,7 +19,7 @@ const Schemes = () => {
               <SchemeCard key={scheme.slug} title={scheme.title} description={scheme.shortDescription} slug={scheme.slug} category={scheme.category} isNew={scheme.isNew} />
             ))}
           </div>
-          <AdPlaceholder format="horizontal" className="mt-8" />
+          <AdPlaceholder provider="adsterra-native" format="horizontal" className="mt-8" />
         </div>
       </section>
     </>

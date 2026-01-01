@@ -218,13 +218,13 @@ const ArticleDetail = () => {
             </div>
           </header>
 
-          <AdPlaceholder format="horizontal" className="my-6" />
+          <AdPlaceholder provider="adsterra-native" format="horizontal" className="my-6" />
 
           <div className="prose prose-lg max-w-none">
             {renderContent(article.content)}
           </div>
 
-          <AdPlaceholder format="horizontal" className="my-6" />
+          <AdPlaceholder provider="adsterra-native" format="horizontal" className="my-6" />
 
           <div className="mt-8 p-6 bg-muted rounded-lg">
             <p className="text-sm text-muted-foreground">
