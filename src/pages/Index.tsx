@@ -93,7 +93,7 @@ const Index = () => {
         </div>
       </section>
 
-      <AdPlaceholder provider="adsterra-native" format="horizontal" className="container-gov my-8" />
+      <AdPlaceholder format="horizontal" className="container-gov my-8" />
 
       {/* Featured Schemes */}
       <section className="section-spacing bg-muted/30">

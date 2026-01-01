@@ -30,7 +30,7 @@ const SchemeDetail = () => {
             <div className="lg:col-span-2 space-y-8">
               <EligibilityTable rows={scheme.eligibility} />
               <DocumentsList documents={scheme.documents} />
-              <AdPlaceholder provider="adsterra-native" format="horizontal" />
+              <AdPlaceholder format="horizontal" />
               <StepsToApply steps={scheme.steps} />
               <section>
                 <h3 className="font-semibold mb-4">Frequently Asked Questions</h3>
