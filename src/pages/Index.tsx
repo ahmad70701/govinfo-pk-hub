@@ -139,7 +139,7 @@ const Index = () => {
         </div>
       </section>
 
-      <AdPlaceholder provider="adsterra-native"
+      <AdPlaceholder 
         format="horizontal"
         className="container-gov my-8" />
 
