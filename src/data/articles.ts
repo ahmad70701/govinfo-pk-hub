@@ -20,13 +20,16 @@ export const articles: Article[] = [
     readTime: '12 min read',
     content: `[![Ehsaas Program: Eligibility, Registration, and Payment Guide 2025](https://kccqmbkylzrrhibpxtbk.supabase.co/storage/v1/object/public/public-user-assets/1aea0060-7c14-43b7-b1bc-48a8b45afaf9/c0672570-e590-433f-b640-5983841331a0/main-image.webp)](https://www.effectivegatecpm.com/phy2snc4kf?key=3e3c861b82f5d33cca7578d459a9c6dc)
 
-If you are searching for how to apply to the Ehsaas Program in 2025, check your CNIC status on 8171, or understand where and when payments are issued, this guide covers what you need to know. It explains eligibility, registration pathways, payment collection, and how to fix common issues. PakGovInfo is an independent information resource, always verify final steps on official portals.
+If you are searching for **how to apply for the Ehsaas Programme in 2025**, how to use the **8171 web portal**, perform **8171 check online CNIC Ehsaas Program**, or understand the **Benazir Income Support Program (BISP)** payments, this complete guide explains everything step by step. You will learn about eligibility, **Ehsaas program CNIC check online**, registration, payment collection, and solutions to common issues.
+
+**PakGovInfo** is an independent informational platform. Always verify final steps through official government sources such as the **[8171 web portal](https://8171.bisp.gov.pk/)** and **[BISP](https://bisp.gov.pk/)** websites.
+
 
 ## Ehsaas and BISP in 2025, how they relate
 
 Many citizens still say Ehsaas Program when they mean BISP cash assistance. The federal social protection system is led by the Benazir Income Support Programme (BISP). Key benefits commonly searched under "Ehsaas" include BISP Kafaalat (cash assistance for eligible women), BISP Taleemi Wazaif (education stipends for children), and nutrition support like Nashonuma in selected districts.
 
-- Check eligibility and status on the 8171 portal: [8171.bisp.gov.pk](https://8171.bisp.gov.pk)
+- Check eligibility and status on the 8171 web portal: [8171.bisp.gov.pk](https://8171.bisp.gov.pk)
 - BISP official website for program updates: [bisp.gov.pk](https://bisp.gov.pk)
 - Poverty Alleviation and Social Safety Division: [pass.gov.pk](https://pass.gov.pk)
 
@@ -42,7 +45,7 @@ Because amounts, bank partners, and schedules are periodically revised, always c
 
 ## Who is eligible
 
-Final eligibility is determined by BISP through NSER data and verification across government databases. In general, the following patterns apply:
+Final eligibility is determined by ehsaas program online through NSER data and verification across government databases. In general, the following patterns apply:
 
 - Pakistani citizens with valid CNICs, priority for low-income households under the NSER poverty score threshold.
 - Women are the primary recipients for household Kafaalat cash transfers.
@@ -54,7 +57,7 @@ If you are unsure, the quickest way is to check your CNIC on the 8171 portal or 
 
 ## How to check your status online or by SMS
 
-1. Visit the official portal: [https://8171.bisp.gov.pk](https://8171.bisp.gov.pk).
+1. Visit the official 8171 web portal: [https://8171.bisp.gov.pk](https://8171.bisp.gov.pk).
 2. Enter your CNIC number and the security code, submit to see your latest status.
 3. If you cannot access the internet, send your CNIC number by SMS to 8171 and wait for the reply.
 
