@@ -18,7 +18,7 @@ export const articles: Article[] = [
     author: 'PakGovInfo Team',
     category: 'Government Schemes',
     readTime: '12 min read',
-    content: `[![Ehsaas Program: Eligibility, Registration, and Payment Guide 2025](https://kccqmbkylzrrhibpxtbk.supabase.co/storage/v1/object/public/public-user-assets/1aea0060-7c14-43b7-b1bc-48a8b45afaf9/c0672570-e590-433f-b640-5983841331a0/main-image.webp)](https://www.effectivegatecpm.com/phy2snc4kf?key=3e3c861b82f5d33cca7578d459a9c6dc)
+    content: `[![Ehsaas Program: Eligibility, Registration, and Payment Guide 2025](https://kccqmbkylzrrhibpxtbk.supabase.co/storage/v1/object/public/public-user-assets/1aea0060-7c14-43b7-b1bc-48a8b45afaf9/c0672570-e590-433f-b640-5983841331a0/main-image.webp)](https://coralcanarydepend.com/phy2snc4kf?key=3e3c861b82f5d33cca7578d459a9c6dc)
 
 If you are searching for **how to apply for the Ehsaas Programme in 2025**, how to use the **8171 web portal**, perform **8171 check online CNIC Ehsaas Program**, or understand the **Benazir Income Support Program (BISP)** payments, this complete guide explains everything step by step. You will learn about eligibility, **Ehsaas program CNIC check online**, registration, payment collection, and solutions to common issues.
 
@@ -108,7 +108,7 @@ Program names and coverage can vary by district and federal or provincial scope.
 - No official representative will ask you to share OTPs, bank PINs, or pay a release fee.
 - Social media pages and WhatsApp groups are not official enrollment channels. If in doubt, verify any claim against the 8171 portal.
 
-[![A simple four-step flow diagram showing: Check 8171 status, Visit BISP Tehsil Office for NSER survey, Receive eligibility SMS, Collect payment with CNIC biometric verification.](https://kccqmbkylzrrhibpxtbk.supabase.co/storage/v1/object/public/public-user-assets/1aea0060-7c14-43b7-b1bc-48a8b45afaf9/c0672570-e590-433f-b640-5983841331a0/image-1.webp)](https://www.effectivegatecpm.com/phy2snc4kf?key=3e3c861b82f5d33cca7578d459a9c6dc)
+[![A simple four-step flow diagram showing: Check 8171 status, Visit BISP Tehsil Office for NSER survey, Receive eligibility SMS, Collect payment with CNIC biometric verification.](https://kccqmbkylzrrhibpxtbk.supabase.co/storage/v1/object/public/public-user-assets/1aea0060-7c14-43b7-b1bc-48a8b45afaf9/c0672570-e590-433f-b640-5983841331a0/image-1.webp)](https://coralcanarydepend.com/phy2snc4kf?key=3e3c861b82f5d33cca7578d459a9c6dc)
 ## Frequently asked questions
 
 **Is the Ehsaas Program still active in 2025?**
